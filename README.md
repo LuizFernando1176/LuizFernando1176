@@ -1,7 +1,8 @@
 ##### Hi, I am Luiz Fernando 👋, an enthusiast at the beginning of my journey in web development. I am always looking for learning and new experiences to create amazing projects.
 
     🔭 My goal is to be a Pleno Web Developer
-    🌱I’m currently learning PHP frameworks, focusing on Laravel, which I have been working with for over 3 years, and have recently started exploring React.js
+    🌱I’m currently learning PHP frameworks, focusing on Laravel, 
+    which I have been working with for over 3 years, and have recently started exploring React.js
     🐧 I prefer to use Windows
     👯I can assist with your Laravel project! Reach out, and let's work together.
     ☕ "God bless and always the solution", that's my belief haha.
